@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterconnect",
+        "uuid": 10597224,
+        "checksum": "m50osr"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
